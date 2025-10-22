@@ -1,4 +1,4 @@
-# Left-RecursionEliminator
+# LeftRecursionEliminator
 
 **This project was made by:**  
 - Isabella Ocampo  
